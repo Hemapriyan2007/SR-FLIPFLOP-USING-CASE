@@ -68,7 +68,8 @@ module dex6(q, q_bar, s,r, clk, reset);
   assign q_bar = ~q;
 endmodule
 ````
-
+Name: Hemapriyan.P
+reg no: 212224040116
 **RTL LOGIC FOR FLIPFLOPS**
 ![image](https://github.com/user-attachments/assets/dc825f4e-0783-404e-81b2-4e24e2a99264)
 
